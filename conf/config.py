@@ -36,7 +36,7 @@ SERVER_ID = "0138ed898adc4b44880b87f69995056e"
 SECRET_KEY_NAME = "private_20200219164210.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://chessinstart.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-35-168-54-239.compute-1.amazonaws.com"
